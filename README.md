@@ -7,4 +7,4 @@
 + Научился работать с состояниеми компонентов
 + Понял что такое хуки жизненного цикла и применил их на практике  (Lifecycle Methods)
 
-![Uploading image.png…]()
+![image](https://github.com/ExpeLL1armus/React-CRUD/assets/89298315/a6d28cbb-d551-4d08-ba65-ba18eb9e47c2)
